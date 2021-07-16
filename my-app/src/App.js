@@ -4,7 +4,7 @@ import React from "react";
 import "./App.css";
 
 function App() {
-  return <div className={styles.App}>Welcome To the Interview</div>;
+  return <div>Welcome To the Interview</div>;
 }
 
 export default App;
